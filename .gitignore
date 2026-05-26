@@ -1,0 +1,12 @@
+#Backend
+venv/
+__pychache__/
+.env
+uploads/
+
+#Frontend
+node_modules
+dist/
+
+#Misc
+.DS_Store
