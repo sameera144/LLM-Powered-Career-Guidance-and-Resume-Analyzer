@@ -1,5 +1,5 @@
 
-# LLM_Powered Career Guidance and Resume Analyzer 🚀
+# LLM-Powered Career Guidance and Resume Analyzer 🚀
 
 An LLM-powered Career Guidance and Resume Analyzer web application that helps users with resume analysis, career guidance, interview preparation, and skill roadmaps using Llama 3.
 
