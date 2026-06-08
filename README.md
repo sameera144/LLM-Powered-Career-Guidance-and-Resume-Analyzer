@@ -1,8 +1,7 @@
-# ai-career-assistant
 
-# AI Career Assistant 🚀
+# LLM_Powered Career Guidance and Resume Analyzer 🚀
 
-An AI-powered Career Assistant web application that helps users with resume analysis, career guidance, interview preparation, and skill roadmaps using Llama 3.
+An LLM-powered Career Guidance and Resume Analyzer web application that helps users with resume analysis, career guidance, interview preparation, and skill roadmaps using Llama 3.
 
 ---
 
